@@ -52,9 +52,9 @@ def writeProve(listdir,dir,out):
         day=name[2]
         file=name[3]
         sysfile=name[4]
-        out.write(f'|{file}|{day}/{month}/{year}|[Testo](../../raw/main/{dir}/{year}-{month}-{sysfile}/{sysfile}%20-%20Testo.pdf)|')
+        out.write(f'|{file}|{day}/{month}/{year}|[Testo](../../raw/main/{dir}/{year}-{month}-{day}-{sysfile}/{sysfile}%20-%20Testo.pdf)|')
         if os.path.exists(f'{ROOT}/{dir}/{file}/{file}.pdf'):
-            out.write(f'[Soluzione](../../raw/main/{dir}/{sysfile}/{sysfile}.pdf)|\n')
+            out.write(f'[Soluzione](../../raw/main/{dir}/{year}-{month}-{day}-{sysfile}/{sysfile}.pdf)|\n')
         else:
             out.write("-|\n")
     return
