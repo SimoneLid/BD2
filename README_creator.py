@@ -22,11 +22,12 @@ def writeEsercizi(listdir,dir,out):
 def writeProgNew(listdir,dir,out):
     out.write("|Progetto|Testo|Soluzione|\n|--------|:---:|:-------:|\n")
     for name in listdir:
-        file=name[0]
-        sysfile=name[1]
-        out.write(f'|{file}|[Testo](../../raw/main/{dir}/{sysfile}/{sysfile}%20-%20Testo.pdf)|')
-        if os.path.exists(f'{ROOT}/{dir}/{file}/{file}.pdf'):
-            out.write(f'[Soluzione](../../raw/main/{dir}/{sysfile}/{sysfile}.pdf)|\n')
+        num=name[0]
+        file=name[1]
+        sysfile=name[2]
+        out.write(f'|{file}|[Testo](../../raw/main/{dir}/{num}-{sysfile}/{sysfile}%20-%20Testo.pdf)|')
+        if os.path.exists(f'{ROOT}/{dir}/{num}-{file}/{file}.pdf'):
+            out.write(f'[Soluzione](../../raw/main/{dir}/{num}-{sysfile}/{sysfile}.pdf)|\n')
         else:
             out.write("-|\n")
     return

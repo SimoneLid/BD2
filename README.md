@@ -31,7 +31,7 @@ Repository contenente tutti gli esercizi e progetti del corso Basi Di Dati 2
 
 |Progetto|Testo|Soluzione|
 |--------|:---:|:-------:|
-|Travel to the Moon|[Testo](../../raw/main/ProgettiNuovi/Travel%20to%20the%20Moon/Travel%20to%20the%20Moon%20-%20Testo.pdf)|[Soluzione](../../raw/main/ProgettiNuovi/Travel%20to%20the%20Moon/Travel%20to%20the%20Moon.pdf)|
+|Travel to the Moon|[Testo](../../raw/main/ProgettiNuovi/1-Travel%20to%20the%20Moon/Travel%20to%20the%20Moon%20-%20Testo.pdf)|[Soluzione](../../raw/main/ProgettiNuovi/1-Travel%20to%20the%20Moon/Travel%20to%20the%20Moon.pdf)|
 
 </details>
 
