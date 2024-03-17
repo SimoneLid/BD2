@@ -80,8 +80,6 @@ In particolare ci sono:
 |AllenaMondo|17/3/2023|[Testo](../../raw/main/ProveD'Esame/2023-3-17-AllenaMondo/AllenaMondo%20-%20Testo.pdf)|-|
 |Slimmy|30/1/2023|[Testo](../../raw/main/ProveD'Esame/2023-1-30-Slimmy/Slimmy%20-%20Testo.pdf)|-|
 |EasyToll|13/1/2023|[Testo](../../raw/main/ProveD'Esame/2023-1-13-EasyToll/EasyToll%20-%20Testo.pdf)|-|
-|MyPrecious|9/9/2022|[Testo](../../raw/main/ProveD'Esame/2022-9-9-MyPrecious/MyPrecious%20-%20Testo.pdf)|-|
-|CoLab|10/6/2022|[Testo](../../raw/main/ProveD'Esame/2022-6-10-CoLab/CoLab%20-%20Testo.pdf)|-|
 |StayHealthy!|14/3/2022|[Testo](../../raw/main/ProveD'Esame/2022-3-14-StayHealthy!/StayHealthy!%20-%20Testo.pdf)|-|
 |RistoBook|4/2/2022|[Testo](../../raw/main/ProveD'Esame/2022-2-4-RistoBook/RistoBook%20-%20Testo.pdf)|-|
 |SafeOnTheBeach|14/1/2022|[Testo](../../raw/main/ProveD'Esame/2022-1-14-SafeOnTheBeach/SafeOnTheBeach%20-%20Testo.pdf)|-|
