@@ -77,7 +77,7 @@ Repository contenente tutti gli esercizi e progetti del corso Basi Di Dati 2
 |EasyToll|1-2023|[Testo](../../raw/main/ProveD'Esame/2023-1-EasyToll/EasyToll%20-%20Testo.pdf)|-|
 |MyPrecious|9-2022|[Testo](../../raw/main/ProveD'Esame/2022-9-MyPrecious/MyPrecious%20-%20Testo.pdf)|-|
 |CoLab|6-2022|[Testo](../../raw/main/ProveD'Esame/2022-6-CoLab/CoLab%20-%20Testo.pdf)|-|
-|StayHealty!|3-2022|[Testo](../../raw/main/ProveD'Esame/2022-3-StayHealty!/StayHealty!%20-%20Testo.pdf)|-|
+|StayHealthy!|3-2022|[Testo](../../raw/main/ProveD'Esame/2022-3-StayHealthy!/StayHealthy!%20-%20Testo.pdf)|-|
 |RistoBook|2-2022|[Testo](../../raw/main/ProveD'Esame/2022-2-RistoBook/RistoBook%20-%20Testo.pdf)|-|
 |SafeOnTheBeach|1-2022|[Testo](../../raw/main/ProveD'Esame/2022-1-SafeOnTheBeach/SafeOnTheBeach%20-%20Testo.pdf)|-|
 |GreenCare|9-2021|[Testo](../../raw/main/ProveD'Esame/2021-9-GreenCare/GreenCare%20-%20Testo.pdf)|-|
