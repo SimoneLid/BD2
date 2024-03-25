@@ -1,7 +1,19 @@
+#cartelle varie
 Slide BD2
 Packages
-*.vpp*
-*.synctex.gz
-*.tex
-*.png
-*.sty
+
+#cartella Esercizi esclusi pdf
+Esercizi
+!Esercizi/*/*.pdf
+
+#cartella ProgettiNuovi esclusi pdf
+ProgettiNuovi
+!ProgettiNuovi/*/*.pdf
+
+#cartella ProgettiVecchi esclusi pdf
+ProgettiVecchi
+!ProgettiVecchi/*/*.pdf
+
+#cartella ProveD'Esame esclusi pdf
+ProveD'Esame
+!ProveD'Esame/*/*.pdf
