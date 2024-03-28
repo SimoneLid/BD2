@@ -2,18 +2,8 @@
 Slide BD2
 Packages
 
-#cartella Esercizi esclusi pdf
-Esercizi
-!Esercizi/*/*.pdf
-
-#cartella ProgettiNuovi esclusi pdf
-ProgettiNuovi
-!ProgettiNuovi/*/*.pdf
-
-#cartella ProgettiVecchi esclusi pdf
-ProgettiVecchi
-!ProgettiVecchi/*/*.pdf
-
-#cartella ProveD'Esame esclusi pdf
-ProveD'Esame
-!ProveD'Esame/*/*.pdf
+#file specifici
+*.vpp*
+*.tex
+*.gz
+*.png
