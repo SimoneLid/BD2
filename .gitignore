@@ -7,3 +7,5 @@ Packages
 *.tex
 *.gz
 *.png
+*.eps
+*converted-to.pdf
