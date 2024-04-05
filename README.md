@@ -3,14 +3,12 @@ Repository contenente tutti gli esercizi e progetti del corso Basi Di Dati 2.<br
 In particolare ci sono:
 - Esercizi 2023/2024
 - Progetti 2023/2024
-- Progetti 2022/2023 con soluzione di Toni Mancini
+- Progetti 2022/2023 con soluzione (non tutti) di Toni Mancini
 - Prove D'Esame fino al 2021
 
-## Esercizi
+<details open>
 
-<details>
-
-<summary>Esercizi</summary>
+<summary><font size="5"><strong>Esercizi</strong></font></summary>
 
 |Esercizio|Testo|Soluzione|
 |---------|:---:|:-------:|
@@ -28,11 +26,9 @@ In particolare ci sono:
 
 </details>
 
-## Progetti Nuovi
+<details open>
 
-<details>
-
-<summary>Progetti Nuovi</summary>
+<summary><font size="5"><strong>Progetti Nuovi</strong></font></summary>
 
 |Progetto|Testo|Soluzione|
 |--------|:---:|:-------:|
@@ -40,37 +36,33 @@ In particolare ci sono:
 
 </details>
 
-## Progetti Vecchi
+<details open>
 
-<details>
+<summary><font size="5"><strong>Progetti Vecchi</strong></font></summary>
 
-<summary>Progetti Vecchi</summary>
-
-|Progetto|Testo e Soluzione Mancini|Testo e Soluzione Mia|
+|Progetto|Testo e/o Soluzione Mancini|Soluzione Mia|
 |--------|:-----------------------:|:-------------------:|
 |AmaZZon|[Testo e Soluzione](../../raw/main/ProgettiVecchi/AmaZZon/AmaZZon%20-%20Testo%20e%20Soluzione.pdf)|-|
-|Città Verde|[Testo e Soluzione](../../raw/main/ProgettiVecchi/Città%20Verde/Città%20Verde%20-%20Testo%20e%20Soluzione.pdf)|-|
-|CoLab|[Testo e Soluzione](../../raw/main/ProgettiVecchi/CoLab/CoLab%20-%20Testo%20e%20Soluzione.pdf)|-|
+|Città Verde|[Testo](../../raw/main/ProgettiVecchi/Città%20Verde/Città%20Verde%20-%20Testo.pdf)|-|
+|CoLab|[Testo](../../raw/main/ProgettiVecchi/CoLab/CoLab%20-%20Testo.pdf)|-|
 |DormoDaTe|[Testo e Soluzione](../../raw/main/ProgettiVecchi/DormoDaTe/DormoDaTe%20-%20Testo%20e%20Soluzione.pdf)|-|
 |eBuy|[Testo e Soluzione](../../raw/main/ProgettiVecchi/eBuy/eBuy%20-%20Testo%20e%20Soluzione.pdf)|-|
-|My Precious|[Testo e Soluzione](../../raw/main/ProgettiVecchi/My%20Precious/My%20Precious%20-%20Testo%20e%20Soluzione.pdf)|-|
+|My Precious|[Testo](../../raw/main/ProgettiVecchi/My%20Precious/My%20Precious%20-%20Testo.pdf)|-|
 |Out|[Testo e Soluzione](../../raw/main/ProgettiVecchi/Out/Out%20-%20Testo%20e%20Soluzione.pdf)|-|
 |QuickHospital|[Testo e Soluzione](../../raw/main/ProgettiVecchi/QuickHospital/QuickHospital%20-%20Testo%20e%20Soluzione.pdf)|-|
 |RainAir|[Testo e Soluzione](../../raw/main/ProgettiVecchi/RainAir/RainAir%20-%20Testo%20e%20Soluzione.pdf)|-|
-|RistoBook|[Testo e Soluzione](../../raw/main/ProgettiVecchi/RistoBook/RistoBook%20-%20Testo%20e%20Soluzione.pdf)|-|
-|smart2go|[Testo e Soluzione](../../raw/main/ProgettiVecchi/smart2go/smart2go%20-%20Testo%20e%20Soluzione.pdf)|-|
-|Stoxx|[Testo e Soluzione](../../raw/main/ProgettiVecchi/Stoxx/Stoxx%20-%20Testo%20e%20Soluzione.pdf)|-|
-|TravelPlan|[Testo e Soluzione](../../raw/main/ProgettiVecchi/TravelPlan/TravelPlan%20-%20Testo%20e%20Soluzione.pdf)|-|
+|RistoBook|[Testo](../../raw/main/ProgettiVecchi/RistoBook/RistoBook%20-%20Testo.pdf)|-|
+|smart2go|[Testo](../../raw/main/ProgettiVecchi/smart2go/smart2go%20-%20Testo.pdf)|-|
+|Stoxx|[Testo](../../raw/main/ProgettiVecchi/Stoxx/Stoxx%20-%20Testo.pdf)|-|
+|TravelPlan|[Testo](../../raw/main/ProgettiVecchi/TravelPlan/TravelPlan%20-%20Testo.pdf)|-|
 |TuTubi|[Testo e Soluzione](../../raw/main/ProgettiVecchi/TuTubi/TuTubi%20-%20Testo%20e%20Soluzione.pdf)|-|
-|xFit|[Testo e Soluzione](../../raw/main/ProgettiVecchi/xFit/xFit%20-%20Testo%20e%20Soluzione.pdf)|-|
+|xFit|[Testo](../../raw/main/ProgettiVecchi/xFit/xFit%20-%20Testo.pdf)|-|
 
 </details>
 
-## Prove D'Esame
+<details open>
 
-<details>
-
-<summary>Prove D'Esame</summary>
+<summary><font size="5"><strong>Prove D'Esame</strong></font></summary>
 
 |Progetto|Data|Testo|Soluzione|
 |--------|:----:|:---:|:-------:|

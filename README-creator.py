@@ -33,11 +33,15 @@ def writeProgNew(listdir,dir,out):
     return
 
 def writeProgOld(listdir,dir,out):
-    out.write("|Progetto|Testo e Soluzione Mancini|Testo e Soluzione Mia|\n|--------|:-----------------------:|:-------------------:|\n")
+    out.write("|Progetto|Testo e/o Soluzione Mancini|Soluzione Mia|\n|--------|:-----------------------:|:-------------------:|\n")
     for name in listdir:
+        print(name)
         file=name[0]
         sysfile=name[1]
-        out.write(f'|{file}|[Testo e Soluzione](../../raw/main/{dir}/{sysfile}/{sysfile}%20-%20Testo%20e%20Soluzione.pdf)|')
+        if os.path.exists(f'{ROOT}/{dir}/{file}/{file} - Testo e Soluzione.pdf'):
+            out.write(f'|{file}|[Testo e Soluzione](../../raw/main/{dir}/{sysfile}/{sysfile}%20-%20Testo%20e%20Soluzione.pdf)|')
+        elif os.path.exists(f'{ROOT}/{dir}/{file}/{file} - Testo.pdf'):
+            out.write(f'|{file}|[Testo](../../raw/main/{dir}/{sysfile}/{sysfile}%20-%20Testo.pdf)|')
         if os.path.exists(f'{ROOT}/{dir}/{file}/{file}.pdf'):
             out.write(f'[Soluzione](../../raw/main/{dir}/{sysfile}/{sysfile}.pdf)|\n')
         else:
@@ -88,7 +92,7 @@ def searchDir(dir,out):
 
 if __name__=="__main__":
     with open(OUT,mode="w",encoding="utf-8") as out:
-        out.write("# BD2\nRepository contenente tutti gli esercizi e progetti del corso Basi Di Dati 2.<br>\nIn particolare ci sono:\n- Esercizi 2023/2024\n- Progetti 2023/2024\n- Progetti 2022/2023 con soluzione di Toni Mancini\n- Prove D'Esame fino al 2021\n\n")
+        out.write("# BD2\nRepository contenente tutti gli esercizi e progetti del corso Basi Di Dati 2.<br>\nIn particolare ci sono:\n- Esercizi 2023/2024\n- Progetti 2023/2024\n- Progetti 2022/2023 con soluzione (non tutti) di Toni Mancini\n- Prove D'Esame fino al 2021\n\n")
         for dir in LISTDIR:
             if dir=="ProgettiNuovi":
                 dirsplit="Progetti Nuovi"
@@ -98,6 +102,6 @@ if __name__=="__main__":
                 dirsplit="Prove D'Esame"
             else:
                 dirsplit=dir
-            out.write(f'## {dirsplit}\n\n<details>\n\n<summary>{dirsplit}</summary>\n\n')
+            out.write(f'<details open>\n\n<summary><font size="5"><strong>{dirsplit}</strong></font></summary>\n\n')
             searchDir(dir,out)
             out.write("\n</details>\n\n")
