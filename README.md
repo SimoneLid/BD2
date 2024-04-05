@@ -6,9 +6,11 @@ In particolare ci sono:
 - Progetti 2022/2023 con soluzione (non tutti) di Toni Mancini
 - Prove D'Esame fino al 2021
 
+## Esercizi
+
 <details open>
 
-<summary><font size="5"><strong>Esercizi</strong></font></summary>
+<summary>Esercizi</summary>
 
 |Esercizio|Testo|Soluzione|
 |---------|:---:|:-------:|
@@ -26,9 +28,11 @@ In particolare ci sono:
 
 </details>
 
+## Progetti Nuovi
+
 <details open>
 
-<summary><font size="5"><strong>Progetti Nuovi</strong></font></summary>
+<summary>Progetti Nuovi</summary>
 
 |Progetto|Testo|Soluzione|
 |--------|:---:|:-------:|
@@ -36,9 +40,11 @@ In particolare ci sono:
 
 </details>
 
+## Progetti Vecchi
+
 <details open>
 
-<summary><font size="5"><strong>Progetti Vecchi</strong></font></summary>
+<summary>Progetti Vecchi</summary>
 
 |Progetto|Testo e/o Soluzione Mancini|Soluzione Mia|
 |--------|:-----------------------:|:-------------------:|
@@ -60,9 +66,11 @@ In particolare ci sono:
 
 </details>
 
+## Prove D'Esame
+
 <details open>
 
-<summary><font size="5"><strong>Prove D'Esame</strong></font></summary>
+<summary>Prove D'Esame</summary>
 
 |Progetto|Data|Testo|Soluzione|
 |--------|:----:|:---:|:-------:|

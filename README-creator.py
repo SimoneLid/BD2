@@ -102,6 +102,6 @@ if __name__=="__main__":
                 dirsplit="Prove D'Esame"
             else:
                 dirsplit=dir
-            out.write(f'<details open>\n\n<summary><font size="5"><strong>{dirsplit}</strong></font></summary>\n\n')
+            out.write(f'## {dirsplit}\n\n<details open>\n\n<summary>{dirsplit}</summary>\n\n')
             searchDir(dir,out)
             out.write("\n</details>\n\n")
