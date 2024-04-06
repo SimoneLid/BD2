@@ -37,6 +37,7 @@ In particolare ci sono:
 |Progetto|Testo|Soluzione|
 |--------|:---:|:-------:|
 |Travel to the Moon|[Testo](../../raw/main/ProgettiNuovi/1-Travel%20to%20the%20Moon/Travel%20to%20the%20Moon%20-%20Testo.pdf)|[Soluzione](../../raw/main/ProgettiNuovi/1-Travel%20to%20the%20Moon/Travel%20to%20the%20Moon.pdf)|
+|eBuy|[Testo](../../raw/main/ProgettiNuovi/2-eBuy/eBuy%20-%20Testo.pdf)|-|
 
 </details>
 
