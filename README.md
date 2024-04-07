@@ -37,7 +37,7 @@ In particolare ci sono:
 |Progetto|Testo|Soluzione|
 |--------|:---:|:-------:|
 |Travel to the Moon|[Testo](../../raw/main/ProgettiNuovi/1-Travel%20to%20the%20Moon/Travel%20to%20the%20Moon%20-%20Testo.pdf)|[Soluzione](../../raw/main/ProgettiNuovi/1-Travel%20to%20the%20Moon/Travel%20to%20the%20Moon.pdf)|
-|eBuy|[Testo](../../raw/main/ProgettiNuovi/2-eBuy/eBuy%20-%20Testo.pdf)|-|
+|eBuy|[Testo](../../raw/main/ProgettiNuovi/2-eBuy/eBuy%20-%20Testo.pdf)|[Soluzione](../../raw/main/ProgettiNuovi/2-eBuy/eBuy.pdf)|
 
 </details>
 
@@ -75,6 +75,7 @@ In particolare ci sono:
 
 |Progetto|Data|Testo|Soluzione|
 |--------|:----:|:---:|:-------:|
+|TimeBank|7/4/2024|[Testo](../../raw/main/ProveD'Esame/2024-4-7-TimeBank/TimeBank%20-%20Testo.pdf)|-|
 |Deli|14/2/2024|[Testo](../../raw/main/ProveD'Esame/2024-2-14-Deli/Deli%20-%20Testo.pdf)|-|
 |DKL|16/1/2024|[Testo](../../raw/main/ProveD'Esame/2024-1-16-DKL/DKL%20-%20Testo.pdf)|-|
 |CozyRooms|11/9/2023|[Testo](../../raw/main/ProveD'Esame/2023-9-11-CozyRooms/CozyRooms%20-%20Testo.pdf)|-|

@@ -35,7 +35,6 @@ def writeProgNew(listdir,dir,out):
 def writeProgOld(listdir,dir,out):
     out.write("|Progetto|Testo e/o Soluzione Mancini|Soluzione Mia|\n|--------|:-----------------------:|:-------------------:|\n")
     for name in listdir:
-        print(name)
         file=name[0]
         sysfile=name[1]
         if os.path.exists(f'{ROOT}/{dir}/{file}/{file} - Testo e Soluzione.pdf'):
