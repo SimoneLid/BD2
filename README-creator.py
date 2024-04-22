@@ -92,6 +92,8 @@ def searchDir(dir,out):
 if __name__=="__main__":
     with open(OUT,mode="w",encoding="utf-8") as out:
         out.write("# BD2\nRepository contenente tutti gli esercizi e progetti del corso Basi Di Dati 2.<br>\nIn particolare ci sono:\n- Esercizi 2023/2024\n- Progetti 2023/2024\n- Progetti 2022/2023 con soluzione (non tutti) di Toni Mancini\n- Prove D'Esame fino al 2021\n\n")
+        out.write("### Informazioni sui progetti\nNei progetti viene usato uno specifico precompilato per scrivere ogni passo, cioè [questo] (non ancora presente).<br>\nInoltre il testo viene sottolineato con diversi colori ognuno indicante una parte specifica dell'analisi:\n")
+        out.write("|Colore|Significato|\n|:----:|:---------:|\n|${\color{blue}\\text{BLU}}$|Classi|\n|${\color{red}\\text{ROSSO}}$|Attributi|\n|${\color{yellow}\\text{GIALLO}}$|Associazioni|\n|${\color{green}\\text{VERDE}}$|Use-case|\n\n")
         for dir in LISTDIR:
             if dir=="ProgettiNuovi":
                 dirsplit="Progetti Nuovi"

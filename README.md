@@ -6,6 +6,16 @@ In particolare ci sono:
 - Progetti 2022/2023 con soluzione (non tutti) di Toni Mancini
 - Prove D'Esame fino al 2021
 
+### Informazioni sui progetti
+Nei progetti viene usato uno specifico precompilato per scrivere ogni passo, cioè [questo] (non ancora presente).<br>
+Inoltre il testo viene sottolineato con diversi colori ognuno indicante una parte specifica dell'analisi:
+|Colore|Significato|
+|:----:|:---------:|
+|${\color{blue}\text{BLU}}$|Classi|
+|${\color{red}\text{ROSSO}}$|Attributi|
+|${\color{yellow}\text{GIALLO}}$|Associazioni|
+|${\color{green}\text{VERDE}}$|Use-case|
+
 ## Esercizi
 
 <details open>
