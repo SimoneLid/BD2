@@ -66,7 +66,7 @@ Inoltre il testo viene sottolineato con diversi colori ognuno indicante una part
 |eBuy|[Testo e Soluzione](../../raw/main/ProgettiVecchi/eBuy/eBuy%20-%20Testo%20e%20Soluzione.pdf)|-|
 |My Precious|[Testo](../../raw/main/ProgettiVecchi/My%20Precious/My%20Precious%20-%20Testo.pdf)|-|
 |Out|[Testo e Soluzione](../../raw/main/ProgettiVecchi/Out/Out%20-%20Testo%20e%20Soluzione.pdf)|-|
-|QuickHospital|[Testo e Soluzione](../../raw/main/ProgettiVecchi/QuickHospital/QuickHospital%20-%20Testo%20e%20Soluzione.pdf)|-|
+|QuickHospital|[Testo e Soluzione](../../raw/main/ProgettiVecchi/QuickHospital/QuickHospital%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/ProgettiVecchi/QuickHospital/QuickHospital.pdf)|
 |RainAir|[Testo e Soluzione](../../raw/main/ProgettiVecchi/RainAir/RainAir%20-%20Testo%20e%20Soluzione.pdf)|-|
 |RistoBook|[Testo](../../raw/main/ProgettiVecchi/RistoBook/RistoBook%20-%20Testo.pdf)|-|
 |smart2go|[Testo](../../raw/main/ProgettiVecchi/smart2go/smart2go%20-%20Testo.pdf)|-|
