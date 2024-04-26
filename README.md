@@ -48,6 +48,7 @@ Inoltre il testo viene sottolineato con diversi colori ognuno indicante una part
 |--------|:---:|:-------:|
 |Travel to the Moon|[Testo](../../raw/main/ProgettiNuovi/1-Travel%20to%20the%20Moon/Travel%20to%20the%20Moon%20-%20Testo.pdf)|[Soluzione](../../raw/main/ProgettiNuovi/1-Travel%20to%20the%20Moon/Travel%20to%20the%20Moon.pdf)|
 |eBuy|[Testo](../../raw/main/ProgettiNuovi/2-eBuy/eBuy%20-%20Testo.pdf)|[Soluzione](../../raw/main/ProgettiNuovi/2-eBuy/eBuy.pdf)|
+|Tutubi|[Testo](../../raw/main/ProgettiNuovi/3-Tutubi/Tutubi%20-%20Testo.pdf)|-|
 
 </details>
 
@@ -63,7 +64,6 @@ Inoltre il testo viene sottolineato con diversi colori ognuno indicante una part
 |Città Verde|[Testo](../../raw/main/ProgettiVecchi/Città%20Verde/Città%20Verde%20-%20Testo.pdf)|-|
 |CoLab|[Testo](../../raw/main/ProgettiVecchi/CoLab/CoLab%20-%20Testo.pdf)|-|
 |DormoDaTe|[Testo e Soluzione](../../raw/main/ProgettiVecchi/DormoDaTe/DormoDaTe%20-%20Testo%20e%20Soluzione.pdf)|-|
-|eBuy|[Testo e Soluzione](../../raw/main/ProgettiVecchi/eBuy/eBuy%20-%20Testo%20e%20Soluzione.pdf)|-|
 |My Precious|[Testo](../../raw/main/ProgettiVecchi/My%20Precious/My%20Precious%20-%20Testo.pdf)|-|
 |Out|[Testo e Soluzione](../../raw/main/ProgettiVecchi/Out/Out%20-%20Testo%20e%20Soluzione.pdf)|-|
 |QuickHospital|[Testo e Soluzione](../../raw/main/ProgettiVecchi/QuickHospital/QuickHospital%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/ProgettiVecchi/QuickHospital/QuickHospital.pdf)|
