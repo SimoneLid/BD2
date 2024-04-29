@@ -1,13 +1,7 @@
 # BD2
-Repository contenente tutti gli esercizi e progetti del corso Basi Di Dati 2.<br>
-In particolare ci sono:
-- Esercizi 2023/2024
-- Progetti 2023/2024
-- Progetti 2022/2023 con soluzione (non tutti) di Toni Mancini
-- Prove D'Esame fino al 2021
-
+Repository contenente tutti i progetti svolti da me durante il corso Basi Di Dati 2.
 ### Informazioni sui progetti
-Nei progetti viene usato uno specifico precompilato per scrivere ogni passo, cioè [questo] (non ancora presente).<br>
+Nei progetti (esclusi quelli in Latex) viene usato uno specifico precompilato, fornito dal professore, cioè [questo] (non ancora presente).<br>
 Inoltre il testo viene sottolineato con diversi colori ognuno indicante una parte specifica dell'analisi:
 |Colore|Significato|
 |:----:|:---------:|
@@ -15,28 +9,6 @@ Inoltre il testo viene sottolineato con diversi colori ognuno indicante una part
 |${\color{red}\text{ROSSO}}$|Attributi|
 |${\color{yellow}\text{GIALLO}}$|Associazioni|
 |${\color{green}\text{VERDE}}$|Use-case|
-
-## Esercizi
-
-<details open>
-
-<summary>Esercizi</summary>
-
-|Esercizio|Testo|Soluzione|
-|---------|:---:|:-------:|
-|Azienda 1|[Testo](../../raw/main/Esercizi/1-Azienda%201/Azienda%201%20-%20Testo.pdf)|[Soluzione](../../raw/main/Esercizi/1-Azienda%201/Azienda%201.pdf)|
-|Voli Aerei 1|[Testo](../../raw/main/Esercizi/2-Voli%20Aerei%201/Voli%20Aerei%201%20-%20Testo.pdf)|[Soluzione](../../raw/main/Esercizi/2-Voli%20Aerei%201/Voli%20Aerei%201.pdf)|
-|Università 1|[Testo](../../raw/main/Esercizi/3-Università%201/Università%201%20-%20Testo.pdf)|[Soluzione](../../raw/main/Esercizi/3-Università%201/Università%201.pdf)|
-|Accademia 1|[Testo](../../raw/main/Esercizi/4-Accademia%201/Accademia%201%20-%20Testo.pdf)|[Soluzione](../../raw/main/Esercizi/4-Accademia%201/Accademia%201.pdf)|
-|Voli Aerei 2|[Testo](../../raw/main/Esercizi/5-Voli%20Aerei%202/Voli%20Aerei%202%20-%20Testo.pdf)|[Soluzione](../../raw/main/Esercizi/5-Voli%20Aerei%202/Voli%20Aerei%202.pdf)|
-|Università 2|[Testo](../../raw/main/Esercizi/6-Università%202/Università%202%20-%20Testo.pdf)|[Soluzione](../../raw/main/Esercizi/6-Università%202/Università%202.pdf)|
-|Impiegati e Studenti|[Testo](../../raw/main/Esercizi/7-Impiegati%20e%20Studenti/Impiegati%20e%20Studenti%20-%20Testo.pdf)|[Soluzione](../../raw/main/Esercizi/7-Impiegati%20e%20Studenti/Impiegati%20e%20Studenti.pdf)|
-|Go|[Testo](../../raw/main/Esercizi/8-Go/Go%20-%20Testo.pdf)|[Soluzione](../../raw/main/Esercizi/8-Go/Go.pdf)|
-|Esercitazioni Universitarie 1|[Testo](../../raw/main/Esercizi/9-Esercitazioni%20Universitarie%201/Esercitazioni%20Universitarie%201%20-%20Testo.pdf)|[Soluzione](../../raw/main/Esercizi/9-Esercitazioni%20Universitarie%201/Esercitazioni%20Universitarie%201.pdf)|
-|Accademia 2|[Testo](../../raw/main/Esercizi/10-Accademia%202/Accademia%202%20-%20Testo.pdf)|[Soluzione](../../raw/main/Esercizi/10-Accademia%202/Accademia%202.pdf)|
-|Officine 1|[Testo](../../raw/main/Esercizi/11-Officine%201/Officine%201%20-%20Testo.pdf)|[Soluzione](../../raw/main/Esercizi/11-Officine%201/Officine%201.pdf)|
-
-</details>
 
 ## Progetti Nuovi
 
