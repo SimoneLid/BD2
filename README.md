@@ -1,8 +1,7 @@
 # BD2
 Repository contenente tutti i progetti svolti da me durante il corso Basi Di Dati 2.
 ### Informazioni sui progetti
-Nei progetti (esclusi quelli in Latex) viene usato uno specifico precompilato, fornito dal professore, cioè [questo] (non ancora presente).<br>
-Inoltre il testo viene sottolineato con diversi colori ognuno indicante una parte specifica dell'analisi:
+Il testo viene sottolineato con diversi colori ognuno indicante una parte specifica dell'analisi:
 |Colore|Significato|
 |:----:|:---------:|
 |${\color{blue}\text{BLU}}$|Classi|
@@ -39,7 +38,7 @@ Inoltre il testo viene sottolineato con diversi colori ognuno indicante una part
 |My Precious|[Testo](../../raw/main/ProgettiVecchi/My%20Precious/My%20Precious%20-%20Testo.pdf)|[Soluzione](../../raw/main/ProgettiVecchi/My%20Precious/My%20Precious.pdf)|
 |Out|[Testo e Soluzione](../../raw/main/ProgettiVecchi/Out/Out%20-%20Testo%20e%20Soluzione.pdf)|-|
 |QuickHospital|[Testo e Soluzione](../../raw/main/ProgettiVecchi/QuickHospital/QuickHospital%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/ProgettiVecchi/QuickHospital/QuickHospital.pdf)|
-|RainAir|[Testo e Soluzione](../../raw/main/ProgettiVecchi/RainAir/RainAir%20-%20Testo%20e%20Soluzione.pdf)|-|
+|RainAir|[Testo e Soluzione](../../raw/main/ProgettiVecchi/RainAir/RainAir%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/ProgettiVecchi/RainAir/RainAir.pdf)|
 |RistoBook|[Testo](../../raw/main/ProgettiVecchi/RistoBook/RistoBook%20-%20Testo.pdf)|-|
 |smart2go|[Testo](../../raw/main/ProgettiVecchi/smart2go/smart2go%20-%20Testo.pdf)|-|
 |Stoxx|[Testo](../../raw/main/ProgettiVecchi/Stoxx/Stoxx%20-%20Testo.pdf)|-|

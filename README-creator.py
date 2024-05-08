@@ -77,7 +77,7 @@ def searchDir(dir,out):
 if __name__=="__main__":
     with open(OUT,mode="w",encoding="utf-8") as out:
         out.write("# BD2\nRepository contenente tutti i progetti svolti da me durante il corso Basi Di Dati 2.\n")
-        out.write("### Informazioni sui progetti\nNei progetti (esclusi quelli in Latex) viene usato uno specifico precompilato, fornito dal professore, cioè [questo] (non ancora presente).<br>\nInoltre il testo viene sottolineato con diversi colori ognuno indicante una parte specifica dell'analisi:\n")
+        out.write("### Informazioni sui progetti\nIl testo viene sottolineato con diversi colori ognuno indicante una parte specifica dell'analisi:\n")
         out.write("|Colore|Significato|\n|:----:|:---------:|\n|${\color{blue}\\text{BLU}}$|Classi|\n|${\color{red}\\text{ROSSO}}$|Attributi|\n|${\color{yellow}\\text{GIALLO}}$|Associazioni|\n|${\color{green}\\text{VERDE}}$|Use-case|\n\n")
         for dir in LISTDIR:
             if dir=="ProgettiNuovi":
