@@ -36,7 +36,7 @@ Il testo viene sottolineato con diversi colori ognuno indicante una parte specif
 |CoLab|[Testo](../../raw/main/ProgettiVecchi/CoLab/CoLab%20-%20Testo.pdf)|-|
 |DormoDaTe|[Testo e Soluzione](../../raw/main/ProgettiVecchi/DormoDaTe/DormoDaTe%20-%20Testo%20e%20Soluzione.pdf)|-|
 |My Precious|[Testo](../../raw/main/ProgettiVecchi/My%20Precious/My%20Precious%20-%20Testo.pdf)|[Soluzione](../../raw/main/ProgettiVecchi/My%20Precious/My%20Precious.pdf)|
-|Out|[Testo e Soluzione](../../raw/main/ProgettiVecchi/Out/Out%20-%20Testo%20e%20Soluzione.pdf)|-|
+|Out|[Testo e Soluzione](../../raw/main/ProgettiVecchi/Out/Out%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/ProgettiVecchi/Out/Out.pdf)|
 |QuickHospital|[Testo e Soluzione](../../raw/main/ProgettiVecchi/QuickHospital/QuickHospital%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/ProgettiVecchi/QuickHospital/QuickHospital.pdf)|
 |RainAir|[Testo e Soluzione](../../raw/main/ProgettiVecchi/RainAir/RainAir%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/ProgettiVecchi/RainAir/RainAir.pdf)|
 |RistoBook|[Testo](../../raw/main/ProgettiVecchi/RistoBook/RistoBook%20-%20Testo.pdf)|-|
