@@ -1,5 +1,5 @@
 # BD2
-Repository contenente tutti i progetti svolti da me durante il corso Basi Di Dati 2.
+Repository contenente tutti i progetti e le prove d'esame svolti da me durante il corso Basi Di Dati 2.
 ### Informazioni sui progetti
 Il testo viene sottolineato con diversi colori ognuno indicante una parte specifica dell'analisi:
 |Colore|Significato|
