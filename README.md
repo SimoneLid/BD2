@@ -22,7 +22,7 @@ Il testo viene sottolineato con diversi colori ognuno indicante una parte specif
 |Out|[Testo e Soluzione](../../raw/main/Progetti/Out/Out%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/Progetti/Out/Out.pdf)|
 |QuickHospital|[Testo e Soluzione](../../raw/main/Progetti/QuickHospital/QuickHospital%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/Progetti/QuickHospital/QuickHospital.pdf)|
 |RainAir|[Testo e Soluzione](../../raw/main/Progetti/RainAir/RainAir%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/Progetti/RainAir/RainAir.pdf)|
-|RistoBook|[Testo](../../raw/main/Progetti/RistoBook/RistoBook%20-%20Testo.pdf)|-|
+|RistoBook|[Testo](../../raw/main/Progetti/RistoBook/RistoBook%20-%20Testo.pdf)|[Soluzione](../../raw/main/Progetti/RistoBook/RistoBook.pdf)|
 |smart2go|[Testo](../../raw/main/Progetti/smart2go/smart2go%20-%20Testo.pdf)|-|
 |Stoxx|[Testo](../../raw/main/Progetti/Stoxx/Stoxx%20-%20Testo.pdf)|-|
 |TravelPlan|[Testo](../../raw/main/Progetti/TravelPlan/TravelPlan%20-%20Testo.pdf)|-|
@@ -44,7 +44,6 @@ Il testo viene sottolineato con diversi colori ognuno indicante una parte specif
 |Slimmy|30/1/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-1-30-Slimmy/Slimmy%20-%20Testo.pdf)|-|
 |EasyToll|13/1/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-1-13-EasyToll/EasyToll%20-%20Testo.pdf)|-|
 |StayHealthy!|14/3/2022|[Testo](../../raw/main/Prove%20D'Esame/2022-3-14-StayHealthy!/StayHealthy!%20-%20Testo.pdf)|-|
-|RistoBook|4/2/2022|[Testo](../../raw/main/Prove%20D'Esame/2022-2-4-RistoBook/RistoBook%20-%20Testo.pdf)|-|
 |SafeOnTheBeach|14/1/2022|[Testo](../../raw/main/Prove%20D'Esame/2022-1-14-SafeOnTheBeach/SafeOnTheBeach%20-%20Testo.pdf)|-|
 |GreenCare|3/9/2021|[Testo](../../raw/main/Prove%20D'Esame/2021-9-3-GreenCare/GreenCare%20-%20Testo.pdf)|-|
 
