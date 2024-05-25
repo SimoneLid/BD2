@@ -13,7 +13,7 @@ Il testo viene sottolineato con diversi colori ognuno indicante una parte specif
 
 |Progetto|Testo e/o Soluzione|Soluzione Mia|
 |--------|:-----------------:|:-----------:|
-|AmaZZon|[Testo e Soluzione](../../raw/main/Progetti/AmaZZon/AmaZZon%20-%20Testo%20e%20Soluzione.pdf)|-|
+|AmaZZon|[Testo](../../raw/main/Progetti/AmaZZon/AmaZZon%20-%20Testo.pdf)|-|
 |Città Verde|[Testo](../../raw/main/Progetti/Città%20Verde/Città%20Verde%20-%20Testo.pdf)|-|
 |CoLab|[Testo](../../raw/main/Progetti/CoLab/CoLab%20-%20Testo.pdf)|-|
 |DormoDaTe|[Testo e Soluzione](../../raw/main/Progetti/DormoDaTe/DormoDaTe%20-%20Testo%20e%20Soluzione.pdf)|-|
