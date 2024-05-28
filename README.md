@@ -25,7 +25,7 @@ Il testo viene sottolineato con diversi colori ognuno indicante una parte specif
 |RistoBook|[Testo](../../raw/main/Progetti/RistoBook/RistoBook%20-%20Testo.pdf)|[Soluzione](../../raw/main/Progetti/RistoBook/RistoBook.pdf)|
 |smart2go|[Testo](../../raw/main/Progetti/smart2go/smart2go%20-%20Testo.pdf)|-|
 |Stoxx|[Testo](../../raw/main/Progetti/Stoxx/Stoxx%20-%20Testo.pdf)|-|
-|TravelPlan|[Testo](../../raw/main/Progetti/TravelPlan/TravelPlan%20-%20Testo.pdf)|-|
+|TravelPlan|[Testo](../../raw/main/Progetti/TravelPlan/TravelPlan%20-%20Testo.pdf)|[Soluzione](../../raw/main/Progetti/TravelPlan/TravelPlan.pdf)|
 |TuTubi|[Testo e Soluzione](../../raw/main/Progetti/TuTubi/TuTubi%20-%20Testo%20e%20Soluzione.pdf)|-|
 |xFit|[Testo](../../raw/main/Progetti/xFit/xFit%20-%20Testo.pdf)|-|
 
@@ -45,6 +45,5 @@ Il testo viene sottolineato con diversi colori ognuno indicante una parte specif
 |EasyToll|13/1/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-1-13-EasyToll/EasyToll%20-%20Testo.pdf)|-|
 |StayHealthy!|14/3/2022|[Testo](../../raw/main/Prove%20D'Esame/2022-3-14-StayHealthy!/StayHealthy!%20-%20Testo.pdf)|-|
 |SafeOnTheBeach|14/1/2022|[Testo](../../raw/main/Prove%20D'Esame/2022-1-14-SafeOnTheBeach/SafeOnTheBeach%20-%20Testo.pdf)|-|
-|GreenCare|3/9/2021|[Testo](../../raw/main/Prove%20D'Esame/2021-9-3-GreenCare/GreenCare%20-%20Testo.pdf)|-|
 
 
