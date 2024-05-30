@@ -40,7 +40,7 @@ Il testo viene sottolineato con diversi colori ognuno indicante una parte specif
 |CozyRooms|11/9/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-9-11-CozyRooms/CozyRooms%20-%20Testo.pdf)|-|
 |VirgilioGo|27/6/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-6-27-VirgilioGo/VirgilioGo%20-%20Testo.pdf)|-|
 |Poolio|9/6/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-6-9-Poolio/Poolio%20-%20Testo.pdf)|-|
-|AllenaMondo|17/3/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-3-17-AllenaMondo/AllenaMondo%20-%20Testo.pdf)|-|
+|AllenaMondo|17/3/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-3-17-AllenaMondo/AllenaMondo%20-%20Testo.pdf)|[Soluzione](../../raw/main/Prove%20D'Esame/2023-3-17-AllenaMondo/AllenaMondo.pdf)|
 |Slimmy|30/1/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-1-30-Slimmy/Slimmy%20-%20Testo.pdf)|-|
 |EasyToll|13/1/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-1-13-EasyToll/EasyToll%20-%20Testo.pdf)|-|
 |StayHealthy!|14/3/2022|[Testo](../../raw/main/Prove%20D'Esame/2022-3-14-StayHealthy!/StayHealthy!%20-%20Testo.pdf)|-|
