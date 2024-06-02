@@ -12,10 +12,7 @@ def writeProgOld(listdir,dir,out):
     for name in listdir:
         file=name[0]
         sysfile=name[1]
-        if os.path.exists(f'{ROOT}/{dir}/{file}/{file} - Testo e Soluzione.pdf'):
-            out.write(f'|{file}|[Testo e Soluzione](../../raw/main/{dir}/{sysfile}/{sysfile}%20-%20Testo%20e%20Soluzione.pdf)|')
-        elif os.path.exists(f'{ROOT}/{dir}/{file}/{file} - Testo.pdf'):
-            out.write(f'|{file}|[Testo](../../raw/main/{dir}/{sysfile}/{sysfile}%20-%20Testo.pdf)|')
+        out.write(f'|{file}|[Testo](../../raw/main/{dir}/{sysfile}/{sysfile}%20-%20Testo.pdf)|')
         if os.path.exists(f'{ROOT}/{dir}/{file}/{file}.pdf'):
             out.write(f'[Soluzione](../../raw/main/{dir}/{sysfile}/{sysfile}.pdf)|\n')
         else:

@@ -16,17 +16,17 @@ Il testo viene sottolineato con diversi colori ognuno indicante una parte specif
 |AmaZZon|[Testo](../../raw/main/Progetti/AmaZZon/AmaZZon%20-%20Testo.pdf)|[Soluzione](../../raw/main/Progetti/AmaZZon/AmaZZon.pdf)|
 |Città Verde|[Testo](../../raw/main/Progetti/Città%20Verde/Città%20Verde%20-%20Testo.pdf)|-|
 |CoLab|[Testo](../../raw/main/Progetti/CoLab/CoLab%20-%20Testo.pdf)|-|
-|DormoDaTe|[Testo e Soluzione](../../raw/main/Progetti/DormoDaTe/DormoDaTe%20-%20Testo%20e%20Soluzione.pdf)|-|
-|eBuy|[Testo e Soluzione](../../raw/main/Progetti/eBuy/eBuy%20-%20Testo%20e%20Soluzione.pdf)|-|
+|DormoDaTe|[Testo](../../raw/main/Progetti/DormoDaTe/DormoDaTe%20-%20Testo.pdf)|-|
+|eBuy|[Testo](../../raw/main/Progetti/eBuy/eBuy%20-%20Testo.pdf)|-|
 |My Precious|[Testo](../../raw/main/Progetti/My%20Precious/My%20Precious%20-%20Testo.pdf)|[Soluzione](../../raw/main/Progetti/My%20Precious/My%20Precious.pdf)|
-|Out|[Testo e Soluzione](../../raw/main/Progetti/Out/Out%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/Progetti/Out/Out.pdf)|
-|QuickHospital|[Testo e Soluzione](../../raw/main/Progetti/QuickHospital/QuickHospital%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/Progetti/QuickHospital/QuickHospital.pdf)|
-|RainAir|[Testo e Soluzione](../../raw/main/Progetti/RainAir/RainAir%20-%20Testo%20e%20Soluzione.pdf)|[Soluzione](../../raw/main/Progetti/RainAir/RainAir.pdf)|
+|Out!|[Testo](../../raw/main/Progetti/Out!/Out!%20-%20Testo.pdf)|[Soluzione](../../raw/main/Progetti/Out!/Out!.pdf)|
+|QuickHospital|[Testo](../../raw/main/Progetti/QuickHospital/QuickHospital%20-%20Testo.pdf)|[Soluzione](../../raw/main/Progetti/QuickHospital/QuickHospital.pdf)|
+|RainAir|[Testo](../../raw/main/Progetti/RainAir/RainAir%20-%20Testo.pdf)|[Soluzione](../../raw/main/Progetti/RainAir/RainAir.pdf)|
 |RistoBook|[Testo](../../raw/main/Progetti/RistoBook/RistoBook%20-%20Testo.pdf)|[Soluzione](../../raw/main/Progetti/RistoBook/RistoBook.pdf)|
 |smart2go|[Testo](../../raw/main/Progetti/smart2go/smart2go%20-%20Testo.pdf)|-|
 |Stoxx|[Testo](../../raw/main/Progetti/Stoxx/Stoxx%20-%20Testo.pdf)|-|
 |TravelPlan|[Testo](../../raw/main/Progetti/TravelPlan/TravelPlan%20-%20Testo.pdf)|[Soluzione](../../raw/main/Progetti/TravelPlan/TravelPlan.pdf)|
-|TuTubi|[Testo e Soluzione](../../raw/main/Progetti/TuTubi/TuTubi%20-%20Testo%20e%20Soluzione.pdf)|-|
+|TuTubi|[Testo](../../raw/main/Progetti/TuTubi/TuTubi%20-%20Testo.pdf)|-|
 |xFit|[Testo](../../raw/main/Progetti/xFit/xFit%20-%20Testo.pdf)|-|
 
 
