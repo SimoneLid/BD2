@@ -4,6 +4,9 @@ Slide BD2
 Packages
 ProgettiLatex
 
+#README creator
+README_creator.py
+
 #file specifici
 *.vpp*
 *.tex
