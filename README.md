@@ -11,7 +11,7 @@ Il testo viene sottolineato con diversi colori ognuno indicante una parte specif
 
 ## Progetti
 
-|Progetto|Testo e/o Soluzione|Soluzione Mia|
+|Progetto|Testo|Soluzione|
 |--------|:-----------------:|:-----------:|
 |AmaZZon|[Testo](../../raw/main/Progetti/AmaZZon/AmaZZon%20-%20Testo.pdf)|[Soluzione](../../raw/main/Progetti/AmaZZon/AmaZZon.pdf)|
 |Città Verde|[Testo](../../raw/main/Progetti/Città%20Verde/Città%20Verde%20-%20Testo.pdf)|-|
