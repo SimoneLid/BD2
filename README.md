@@ -42,7 +42,7 @@ Il testo viene sottolineato con diversi colori ognuno indicante una parte specif
 |Poolio|9/6/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-6-9-Poolio/Poolio%20-%20Testo.pdf)|-|
 |AllenaMondo|17/3/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-3-17-AllenaMondo/AllenaMondo%20-%20Testo.pdf)|[Soluzione](../../raw/main/Prove%20D'Esame/2023-3-17-AllenaMondo/AllenaMondo.pdf)|
 |Slimmy|30/1/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-1-30-Slimmy/Slimmy%20-%20Testo.pdf)|[Soluzione](../../raw/main/Prove%20D'Esame/2023-1-30-Slimmy/Slimmy.pdf)|
-|EasyToll|13/1/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-1-13-EasyToll/EasyToll%20-%20Testo.pdf)|-|
+|EasyToll|13/1/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-1-13-EasyToll/EasyToll%20-%20Testo.pdf)|[Soluzione](../../raw/main/Prove%20D'Esame/2023-1-13-EasyToll/EasyToll.pdf)|
 |SafeOnTheBeach|14/1/2022|[Testo](../../raw/main/Prove%20D'Esame/2022-1-14-SafeOnTheBeach/SafeOnTheBeach%20-%20Testo.pdf)|-|
 
 
