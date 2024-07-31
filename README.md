@@ -34,7 +34,7 @@ Il testo viene sottolineato con diversi colori ognuno indicante una parte specif
 
 |Progetto|Data|Testo|Soluzione|
 |--------|:--:|:---:|:-------:|
-|TimeBank|7/4/2024|[Testo](../../raw/main/Prove%20D'Esame/2024-4-7-TimeBank/TimeBank%20-%20Testo.pdf)|-|
+|TimeBank|7/4/2024|[Testo](../../raw/main/Prove%20D'Esame/2024-4-7-TimeBank/TimeBank%20-%20Testo.pdf)|[Soluzione](../../raw/main/Prove%20D'Esame/2024-4-7-TimeBank/TimeBank.pdf)|
 |Deli|14/2/2024|[Testo](../../raw/main/Prove%20D'Esame/2024-2-14-Deli/Deli%20-%20Testo.pdf)|-|
 |DKL|16/1/2024|[Testo](../../raw/main/Prove%20D'Esame/2024-1-16-DKL/DKL%20-%20Testo.pdf)|-|
 |CozyRooms|11/9/2023|[Testo](../../raw/main/Prove%20D'Esame/2023-9-11-CozyRooms/CozyRooms%20-%20Testo.pdf)|[Soluzione](../../raw/main/Prove%20D'Esame/2023-9-11-CozyRooms/CozyRooms.pdf)|
